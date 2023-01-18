@@ -8,5 +8,5 @@
 <code>🙎🏻‍♀️💻 Languages: C#</code>
 <code>📦 Tech stack:</code>
 <code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram: [@fhrr_sht](https://t.me/fhrr_sht)</code>
+<code>💬 telegram: [@yalytsia](https://t.me/yalytsia)</code>
 <code>📫 [my-email](sichkar.tetiana@lll.kpi.ua)</code>
